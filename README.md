@@ -5,7 +5,7 @@ The program will generate ten random questions include addition, subtraction, mu
 Feel free to customize the code to add more complexity, different math operations, or any other features you have in mind!..  
 
 # Instruction
-Copy and paste this code into a Python file (e.g., math-game.py) and run it.  
+Copy and paste this code into a Python compiler and run it.  
 
 # Language are used
 Python  
